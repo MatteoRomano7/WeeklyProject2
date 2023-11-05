@@ -1,0 +1,188 @@
+/* Your html {
+  font-size: 100%;
+}
+
+
+/*BODY*/
+body {
+    background-color: #F0F0F0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    width: 100%;
+}
+
+/*HEADER*/
+
+header {
+    background-color: #283241;
+    text-align: left;
+    width: auto;
+    padding-top: 1.8rem;
+
+}
+
+header img {
+    width: 9rem;
+    height: 3rem;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 0rem;
+}
+
+header ul {
+    background-color: #364757;
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    word-spacing: 1.5rem;
+}
+
+header ul button {
+    background-color: #394757;
+    border-style: hidden;
+    font-size: large;
+}
+
+header ul button:hover {
+    border: 1px solid white;
+}
+
+header ul li {
+    display: inline;
+
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    word-spacing: 0rem;
+}
+
+/*Main*/
+
+
+#giftCards {
+    background-color: #e86a1c;
+    text-align: center;
+    margin: 2rem;
+    color: white;
+
+}
+
+#intro {
+    position: relative;
+    margin: 2rem;
+    width: auto;
+    text-align: center;
+}
+
+#intro section img {
+    width: 100%;
+}
+
+#testoHoliday {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white
+}
+
+#testoHoliday h1 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#testoHoliday h2 {
+    font-size: 0.9 rem;
+    font-weight: bold;
+}
+
+#Quartetto {
+    background-color: white;
+    width: auto;
+    margin: 2rem;
+}
+
+#Quartetto h2 {
+    font-weight: bold;
+}
+
+#Quartetto a {
+    color: #2b666a;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#Quartetto a,
+h2 {
+    display: inline;
+    margin-left: 1rem;
+}
+
+
+
+.Quattrofoto img {
+    width: 25rem;
+    height: 30rem;
+    border-radius: 8%;
+    margin: 3rem;
+
+}
+
+.Quattrofoto {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#visoreAudio {
+    margin: 2rem;
+    background-color: #FFFFFF;
+    width: auto;
+    text-align: center;
+}
+
+
+
+#visoreAudio a,
+p {
+    display: inline;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+#visoreAudio img {
+    width: 100%;
+}
+
+
+/*Footer*/
+
+
+footer {
+    text-align: center;
+    height: 18rem;
+    width: 100%;
+    background-color: #283241;
+}
+
+#toTop {
+    background-color: #3b4859;
+    padding-bottom: 1rem;
+}
+
+#toTop a {
+    font-size: large;
+    color: white;
+
+}
+
+footer img {
+    width: 16rem;
+    height: 5rem;
+    padding: 4rem;
+
+}
